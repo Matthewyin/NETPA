@@ -1,0 +1,2 @@
+graph LogicalTopology{		Default_VRF -- vFW	Border_Leaf -- vFW;	Border_Leaf -- Spine;			Spine -- Access_Leaf1;	Spine -- Access_Leaf2;	
+}

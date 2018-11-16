@@ -1,0 +1,5 @@
+graph PhysicalTopology{		Border_Leaf -- Spine;			Spine -- Access_Leaf1;	Spine -- Access_Leaf2;	
+	MGNT_SW -- Border_Leaf;
+	MGNT_SW -- Spine;
+	MGNT_SW -- Access_Leaf1;
+	MGNT_SW -- Access_Leaf2;}
