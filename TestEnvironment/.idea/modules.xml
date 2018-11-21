@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Test environment.iml" filepath="$PROJECT_DIR$/.idea/Test environment.iml" />
+      <module fileurl="file://$USER_HOME$/Coding/Python/kingcomm/.idea/kingcomm.iml" filepath="$USER_HOME$/Coding/Python/kingcomm/.idea/kingcomm.iml" />
     </modules>
   </component>
 </project>
